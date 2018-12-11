@@ -2,8 +2,6 @@
 
 The following api architecture is based on the [standard package layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1) proposed by Ben Johnson.
 
-*The following api must*
-
 ## Explanation
 
 The `api.go` file at the root of this project defines the structs and the services shared by the application subpackages.
