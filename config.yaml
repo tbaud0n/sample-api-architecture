@@ -1,0 +1,3 @@
+app_env: "development"
+databaseDSN: "user=test password=test dbname=test"
+logFilepath: "var/log/api.log"
